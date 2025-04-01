@@ -1,31 +1,37 @@
-# Hey there 👋, I'm Jaydip Changani !
+# Hey there 👋, I'm Jaydip Changani !!
 
-I'm a passionate Software Developer specializing in both **MERN** and **.NET** development. I am currently working as Software Developer Intern in Satva Solutions. I love building robust, scalable, and user-friendly applications using the latest technologies. My goal is to bridge the gap between frontend and backend to deliver seamless user experiences.
+I'm a **Software Developer** who loves to **code** and make cool things happen! I specialize in **MERN** and **.NET** development and believe in **speed** and **efficiency**. But let's be real... I'm also fueled by **AI** and a bit of **coffee** (ok, maybe a lot of coffee ☕). 😅
+
+When I'm not coding at the speed of light, you can find me diving deep into the world of AI or simply trying to make my code run **faster than my last coffee**. 🚀💻
+
+
+![Profile Header](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611sjavm3mi6f93lf7yg0d9124m01di88sir8mpoc3k&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
 ## 🚀 Currently Learning
-- Full-stack web development with **MERN** stack (MongoDB, Express, React, Node.js).
-- Building enterprise-level applications with **.NET Core** and **C#**.
-- Exploring **MongoDB** for more efficient data querying and **Docker** for containerization.
-
+- How to **code faster** (without breaking the internet, hopefully!).
+- Mastering **MERN** stack and **.NET Core** like a pro.
+- Making **AI** do the heavy lifting while I sip my coffee ☕. 💡
+- Learning the art of **fast debugging** (don't ask how many coffee cups it takes...).
+ 
 ---
 
 ## 💻 Technologies & Tools I Use
 
-### **Languages**
+### **Languages** (Because you can’t build awesome things with nothing… or with just a coffee ☕)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-### **MERN Stack**
+### **MERN Stack** (The magic that makes full-stack web development fun!)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/react.gif)
+![Node.js](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/nodejs.gif)
 
-### **.NET Development**
+### **.NET Development** (For all the times I feel like building something **enterprise-level**)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=asp.net&logoColor=white)
@@ -37,50 +43,27 @@ I'm a passionate Software Developer specializing in both **MERN** and **.NET** d
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### **Frontend Tools**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### **Version Control & Collaboration**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
-
-### **API & Testing Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+### **AI** (Because who doesn’t love a bit of artificial intelligence? 🤖)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydipchangani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydipchangani&show_icons=true&count_private=true&hide=prs&theme=radical)
 
----
-
-## 🔧 Featured Projects
-- [**Training Material**](https://github.com/jaydipchangani/Trainee) -  Provides a comprehensive foundation in development
-- [**Copilot Tracker**](https://github.com/jaydipchangani/copilot-tracker) - Copilot data tracker.
-- [**Campus Pathfinder**](https://github.com/jaydipchangani/Campus_Pathfinder) - Campus pathfinder for easy navigation.
+## 🔥 GitHub Streaks (I code more than my coffee brews!)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaydipchangani&theme=radical)
 
 ---
 
 ## 📱 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jaydipchangani/)
+- [LinkedIn](https://www.linkedin.com/in/jaydip-changani/)
 - Email: jaydipchangani2@gmail.com
 
 ---
 
-## 🎯 Fun Facts
-- I am deeply fascinated by **AI** and **Machine Learning**.
-- When I'm not coding, you can find me exploring new technologies or travelling various places.
-
----
-
 ## 🎉 Thanks for visiting my profile! Feel free to connect! 🚀
+
+### P.S. I might be working on some **AI**-powered app right now... or just taking a well-deserved trip. 🤖☕
