@@ -65,9 +65,9 @@ I'm a passionate Software Developer specializing in both **MERN** and **.NET** d
 ---
 
 ## 🔧 Featured Projects
-- [**Project 1**](https://github.com/jaydipchangani/Trainee) -  Provides a comprehensive foundation in development
-- [**Project 2**](https://github.com/jaydipchangani/copilot-tracker) - Copilot data tracker.
-- [**Project 3**](https://github.com/jaydipchangani/Campus_Pathfinder) - Campus pathfinder for easy navigation.
+- [**Training Material**](https://github.com/jaydipchangani/Trainee) -  Provides a comprehensive foundation in development
+- [**Copilot Tracker**](https://github.com/jaydipchangani/copilot-tracker) - Copilot data tracker.
+- [**Campus Pathfinder**](https://github.com/jaydipchangani/Campus_Pathfinder) - Campus pathfinder for easy navigation.
 
 ---
 
@@ -79,7 +79,7 @@ I'm a passionate Software Developer specializing in both **MERN** and **.NET** d
 
 ## 🎯 Fun Facts
 - I am deeply fascinated by **AI** and **Machine Learning**.
-- When I'm not coding, you can find me exploring new technologies or playing video games.
+- When I'm not coding, you can find me exploring new technologies or travelling various places.
 
 ---
 
