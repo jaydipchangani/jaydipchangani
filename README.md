@@ -51,10 +51,11 @@ When I'm not coding at the speed of light, you can find me diving deep into the 
 ---
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydipchangani&show_icons=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydipchangani&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## 🔥 GitHub Streaks (I code more than my coffee brews!)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaydipchangani&theme=radical)
+
 
 ---
 
