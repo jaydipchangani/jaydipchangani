@@ -22,14 +22,14 @@ When I'm not coding at the speed of light, you can find me diving deep into the 
 ### **Languages** (Because you can’t build awesome things with nothing… or with just a coffee ☕)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-### **MERN Stack** (The magic that makes full-stack web development fun!)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### **Development** (The magic that makes full-stack web development fun!)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![React](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/react.gif)
-![Node.js](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/nodejs.gif)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 ### **.NET Development** (For all the times I feel like building something **enterprise-level**)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
@@ -44,9 +44,15 @@ When I'm not coding at the speed of light, you can find me diving deep into the 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### **AI** (Because who doesn’t love a bit of artificial intelligence? 🤖)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-FCA311?style=flat&logo=anthropic&logoColor=white)
+![Meta LLaMA](https://img.shields.io/badge/Meta_LLaMA-1877F2?style=flat&logo=meta&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-00B894?style=flat&logo=deepseek&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-6C5CE7?style=flat&logo=anthropic&logoColor=white)
+![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-F95F62?style=flat&logo=perplexity&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-FF6B6B?style=flat&logo=grok&logoColor=white)
+
 
 ---
 
